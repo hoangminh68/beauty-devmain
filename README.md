@@ -21,7 +21,7 @@ Project title: Beauty Of Beaches
 
 ============================
 
-eProject documentation at 
+eProject documentation at: https://docs.google.com/document/d/1-JVvy0fDb95gGUndolX4cc837etMXLCL/edit
 ============================
 
 eProject published at https://devmain--lighthearted-taffy-3a6afe.netlify.app/
